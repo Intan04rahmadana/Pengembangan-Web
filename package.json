@@ -1,0 +1,13 @@
+
+{
+  "name": "tugas-express-mahasiswa",
+  "version": "1.0.0",
+  "description": "REST API data mahasiswa menggunakan Express",
+  "main": "httpindexexpress.js",
+  "scripts": {
+    "start": "node httpindexexpress.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
